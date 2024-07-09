@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp8
 {
-    internal class Article
+    public class Article
     {
         public int Id { get; set; }
         public string Name { get; set; }
